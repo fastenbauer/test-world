@@ -5,5 +5,5 @@
  * Date: 20.04.2016
  * Time: 11:40
  */
-echo "Master new version";
+echo "New branch created";
 echo phpinfo();
